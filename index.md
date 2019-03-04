@@ -13,4 +13,5 @@ Also check out <https://firstname.dev> and <https://fullname.dev> for other vari
 ## The list
 
 * [azeem.dev](https://azeem.dev) -- Hafiz Azeem.  [@achaudhrry](https://twitter.com/achaudhrry)
+* [norris.dev](https://norris.dev) -- Ryan Norris.
 * [peacock.dev](https://peacock.dev) -- Kyle Peacock.  [@kylpeacock](https://twitter.com/kylpeacock)
