@@ -15,3 +15,4 @@ Also check out <https://firstname.dev> and <https://fullname.dev> for other vari
 * [azeem.dev](https://azeem.dev) -- Hafiz Azeem.  [@achaudhrry](https://twitter.com/achaudhrry)
 * [norris.dev](https://norris.dev) -- Ryan Norris.
 * [peacock.dev](https://peacock.dev) -- Kyle Peacock.  [@kylpeacock](https://twitter.com/kylpeacock)
+* [torky.dev](https://torky.dev) -- Mohamed ELTorky.  [@ELTorky97](https://twitter.com/ELTorky97)
