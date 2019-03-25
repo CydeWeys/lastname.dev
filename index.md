@@ -16,4 +16,5 @@ Also check out <https://firstname.dev> and <https://fullname.dev> for other vari
 * [castel.dev](https://castel.dev) -- Gilles Castel.  [@gilles_castel](https://twitter.com/gilles_castel)
 * [norris.dev](https://norris.dev) -- Ryan Norris.
 * [peacock.dev](https://peacock.dev) -- Kyle Peacock.  [@kylpeacock](https://twitter.com/kylpeacock)
+* [streza.dev](https://streza.dev) -- Gabe Streza.  [@GabeStreza](https://twitter.com/GabeStreza)
 * [torky.dev](https://torky.dev) -- Mohamed ELTorky.  [@ELTorky97](https://twitter.com/ELTorky97)
