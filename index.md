@@ -17,5 +17,6 @@ Also check out <https://firstname.dev> and <https://fullname.dev> for other vari
 * [crenshaw.dev](https://crenshaw.dev) -- Michael Crenshaw.  [@m4c9416](https://twitter.com/m4c9416)
 * [norris.dev](https://norris.dev) -- Ryan Norris.
 * [peacock.dev](https://peacock.dev) -- Kyle Peacock.  [@kylpeacock](https://twitter.com/kylpeacock)
+* [sancho.dev](https://sancho.dev) -- David Sancho.  [@davesnx](https://twitter.com/davesnx)
 * [streza.dev](https://streza.dev) -- Gabe Streza.  [@GabeStreza](https://twitter.com/GabeStreza)
 * [torky.dev](https://torky.dev) -- Mohamed ELTorky.  [@ELTorky97](https://twitter.com/ELTorky97)
